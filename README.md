@@ -1,2 +1,1 @@
-# yeducation.github.io
-just a page
+hello world
